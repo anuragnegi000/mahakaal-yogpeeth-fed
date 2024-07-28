@@ -7,3 +7,4 @@ Currently, two official plugins are available:
 #ReactJS
 #EmailJS
 #TailwindCSS/UI
+.
