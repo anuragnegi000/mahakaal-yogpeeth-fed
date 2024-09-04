@@ -38,7 +38,7 @@ export const TypewriterHeading = ({ heading, TypingParagraph }) => {
     <section className="px-8 py-24 mx-auto md:px-12 lg:px-32 max-w-7xl">
       <div>
         <h1 className="text-3xl text-center font-semibold tracking-tighter text-gray-900 lg:text-5xl text-balance">
-          Our Yoga School in {" "}
+          Yoga School in {" "}
           <span className=" bg-indigo-300 shadow shadow-gray-100 border rounded-lg text-black">
             <Typewriter
               words={["Rishikesh"]}
