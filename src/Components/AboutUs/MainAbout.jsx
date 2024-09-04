@@ -37,11 +37,11 @@ export const TypewriterHeading = ({ heading, TypingParagraph }) => {
   return (
     <section className="px-8 py-24 mx-auto md:px-12 lg:px-32 max-w-7xl">
       <div>
-        <h1 className="text-4xl text-center font-semibold tracking-tighter text-gray-900 lg:text-5xl text-balance">
-          Yoga School in Rishikesh - Mahakaal{" "}
+        <h1 className="text-3xl text-center font-semibold tracking-tighter text-gray-900 lg:text-5xl text-balance">
+          Our Yoga School in {" "}
           <span className=" bg-indigo-300 shadow shadow-gray-100 border rounded-lg text-black">
             <Typewriter
-              words={["Yogpeeth"]}
+              words={["Rishikesh"]}
               loop={0}
               cursor
               cursorStyle="|"
@@ -99,7 +99,7 @@ export const TypewriterHeading = ({ heading, TypingParagraph }) => {
           expanded the range of your skills, deepened your knowledge, and gained
           more confidence in your teaching abilities.
         </p>
-        <h1 className="text-4xl font-semibold tracking-tighter text-gray-900 lg:text-5xl text-center text-balance mt-12">
+        <h1 className="text-3xl font-semibold tracking-tighter text-gray-900 lg:text-5xl text-center text-balance mt-12">
           Rishikesh | Your Dream Destination for{" "}
           <span className="bg-indigo-300 shadow shadow-gray-100 border rounded-lg text-black">
             <Typewriter

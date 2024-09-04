@@ -8,6 +8,7 @@ import { Typewriter } from "react-simple-typewriter";
 import { CiClock2 } from "react-icons/ci";
 import { GrYoga } from "react-icons/gr";
 import { useEffect, useRef } from "react";
+import ToggleButton from "../../Components/Button/ToggleButton";
 
 const TTCOne = () => {
   return (
@@ -91,6 +92,7 @@ const testimonials = [
   },
 ];
 
+
 const TestimonialScroller = () => {
   const containerStyle = {
     overflow: "hidden",
@@ -121,7 +123,6 @@ const TestimonialScroller = () => {
   };
 
   const isMobile = window.innerWidth <= 768;
-
   return (
     <section className="bg-white">
       <div className="mx-auto max-w-screen-xl px-4 py-12 sm:px-6 lg:px-8 lg:py-16">

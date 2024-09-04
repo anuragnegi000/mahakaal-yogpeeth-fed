@@ -8,19 +8,14 @@ import WhatsappButton from "../Contact/WhatsappButton";
 const OurTeacher = () => {
   return (
     <>
-
-
-
-
-
-
+      
       <div className="gap-4 flex flex-col">
         <div className="m-12">
           <Navbar />
         </div>
         <LogoHeading heading={"Our Experienced Yoga Teachers"} />
         
-
+    
 
         <Content />
         {/* <OnePagerSection /> */}
