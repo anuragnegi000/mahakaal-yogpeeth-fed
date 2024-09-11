@@ -292,10 +292,10 @@ const DailySchedule = () => {
   return (
     <div className="p-6 mx-auto max-w-4xl">
       <h2 className="mb-4 text-3xl font-bold text-center text-gray-800">
-        Daily Schedule Of 200 Hour Yoga TTC In Bali
+        Daily Schedule Of 100 Hour Yoga TTC In Rishikesh 
       </h2>
       <h3 className="mb-6 text-xl font-semibold text-center text-gray-600">
-        200 Hour Yoga Teacher Training In Bali Course Schedule
+        100 Hour Yoga Teacher Training In Rishikesh Course Schedule
       </h3>
       <p className="mb-8 text-justify text-gray-500">
         Our Curriculum is articulately formulated in order to incorporate both
@@ -663,7 +663,7 @@ const TypewriterHeading = () => {
           Rishikesh, the yoga capital of the world, and nestled in the foothills
           of the Himalayas where the Ganga River flows, makes this a truly
           unique place to practice yoga. We at Mahakaal Yogpeeth, are committed to
-          educational yoga teaching standards around the world with our 200 Hour
+          educational yoga teaching standards around the world with our 100 Hour
           Yoga TTC, 300 Hour Yoga TTC and 500-hour yoga TTC programs in
           Rishikesh. Our Yoga TTC in Rishikesh isn’t just for aspiring yogis,
           but for anyone who wants to deepen their personal practice or skill
@@ -773,7 +773,7 @@ const Included = () => {
           <span className="text-gray-700"> </span>
         </li>
         <li>
-          <span className="text-lg font-medium text-gray-700">200-Hours RYT Yoga Alliance Certification</span> 
+          <span className="text-lg font-medium text-gray-700">100-Hours RYT Yoga Alliance Certification</span> 
           <span className="text-gray-700"> </span>
         </li>
         <li>

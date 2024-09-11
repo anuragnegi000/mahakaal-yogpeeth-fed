@@ -308,10 +308,10 @@ const DailySchedule = () => {
   return (
     <div className="p-6 mx-auto max-w-4xl">
       <h2 className="mb-4 text-3xl font-bold text-center text-gray-800">
-        Daily Schedule Of 200 Hour Yoga TTC In Bali
+        Daily Schedule Of 200 Hour Yoga TTC In Rishikesh
       </h2>
       <h3 className="mb-6 text-xl font-semibold text-center text-gray-600">
-        200 Hour Yoga Teacher Training In Bali Course Schedule
+        200 Hour Yoga Teacher Training In Rishikesh Course Schedule
       </h3>
       <p className="mb-8 text-justify text-gray-500">
         Our Curriculum is articulately formulated in order to incorporate both
@@ -931,8 +931,8 @@ const TypewriterHeading = () => {
   return (
     <section className="py-24 px-4 mx-auto max-w-7xl md:px-12 lg:px-32">
       <div>
-        <h1 className="text-xl font-semibold tracking-tighter text-center text-gray-900 sm:text-4xl lg:text-5xl text-balance">
-          Yoga School in Rishikesh - Mahakaal{" "}
+        <h1 className="text-lg font-semibold tracking-tighter text-center text-gray-900 sm:text-4xl lg:text-5xl text-balance">
+          Yoga School with - Mahakaal{" "}
           <span className="px-2 text-black bg-indigo-300 rounded-lg border shadow shadow-gray-100">
             <Typewriter
               words={["Yogpeeth"]}
@@ -993,7 +993,7 @@ const TypewriterHeading = () => {
           expanded the range of your skills, deepened your knowledge, and gained
           more confidence in your teaching abilities.
         </p>
-        <h1 className="mt-12 text-xl font-semibold tracking-tighter text-center text-gray-900 sm:text-4xl lg:text-5xl text-balance">
+        <h1 className="mt-12 text-lg font-semibold tracking-tighter text-center text-gray-900 sm:text-4xl lg:text-5xl text-balance">
           Rishikesh | Your Dream Destination for{" "}
           <span className="px-2 text-black bg-indigo-300 rounded-lg border shadow shadow-gray-100">
             <Typewriter
