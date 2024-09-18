@@ -1,5 +1,4 @@
 import ShuffleHero from "./Design/SuffleHero";
-import { HoverImageLinks } from "./Design/HoverImageLink";
 import { TDmobile } from "./Design/TDmobile";
 import ContentArea from "./Pages/Parts/ContentArea";
 import TextArea from "./Pages/Parts/TextArea";
@@ -14,6 +13,7 @@ import WhatsappButton from "./Components/Contact/WhatsappButton";
 import Navbar from "./MainComponents/Navbar";
 import Footer from "./MainComponents/Footer";
 import { Content } from "./Pages/Parts/ImgContent";
+// import { FocusCardsDemo } from "./Components/TeachersData";
 
 const Final = () => {
   return (
@@ -43,8 +43,9 @@ const Final = () => {
       <LogoHeading heading={"PRICING FOR YOGA TTC"} />
       <Pricing />
       <FAQ />
-      <HoverImageLinks />
+      {/* <HoverImageLinks /> */}
       <InfScroll />
+      {/* <FocusCardsDemo/> */}
       <FoldBlog />
       <WhatsappButton />
       <Footer />

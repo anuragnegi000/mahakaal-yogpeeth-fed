@@ -1,6 +1,5 @@
 import { motion } from "framer-motion";
 import { useEffect, useRef, useState } from "react";
-import img1 from "../assets/glimpse/teachers/img1.jpg"
 import { Mahakaal1 } from "../utils";
 import { Mahakaal2 } from "../utils";
 import { Mahakaal3 } from "../utils";

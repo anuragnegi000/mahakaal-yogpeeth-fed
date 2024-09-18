@@ -61,6 +61,13 @@ import Gallery6 from "../assets/glimpse/Gallery/gallery6.jpg"
 import Gallery7 from "../assets/glimpse/Gallery/gallery7.jpg"
 import Gallery8 from "../assets/glimpse/Gallery/gallery8.jpg"
 
+import bipinsir from "../assets/glimpse/Teachers/bipinsir.jpg"
+import vikalsir from "../assets/glimpse/Teachers/vikalsir.jpg"
+import kapilsir from "../assets/glimpse/Teachers/kapilsir.jpg"
+import ajaysir from "../assets/glimpse/Teachers/ajaysir.jpg"
+import sanjaysir from "../assets/glimpse/Teachers/sanjaysir.jpg"
+import shivamsir from "../assets/glimpse/Teachers/shivamsir.jpg"
+
 import Ai1 from "../assets/glimpse/Gallery/Ai1.jpg"
 import Ai2 from "../assets/glimpse/Gallery/Ai2.jpg"
 import Ai3 from "../assets/glimpse/Gallery/Ai3.jpg"
@@ -164,7 +171,13 @@ export{
   OnePage5,
   OnePage6,
   OnePage7,
-  OnePage8
+  OnePage8,
+  bipinsir,
+  vikalsir,
+  kapilsir,
+  ajaysir,
+  sanjaysir,
+  shivamsir
 }
 
 

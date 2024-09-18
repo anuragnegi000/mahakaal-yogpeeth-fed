@@ -5,6 +5,7 @@ import Content from "./TextArea";
 import FAQSection from "../../Pages/Parts/FAQ";
 import Footer from "../../MainComponents/Footer";
 import WhatsappButton from "../Contact/WhatsappButton";
+import Teachers from "../TeachersData";
 const OurTeacher = () => {
   return (
     <>
@@ -20,6 +21,7 @@ const OurTeacher = () => {
         <Content />
         {/* <OnePagerSection /> */}
         {/* <TeachersTestimonials /> */}
+        <Teachers/>
         <WhatsappButton/>
         <FAQSection />
         <Footer />
