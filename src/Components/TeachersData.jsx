@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import React from "react";
+import { sasurji } from "../utils";
 import { bipinsir } from "../utils";
 import { vikalsir } from "../utils";
 import { kapilsir } from "../utils";
@@ -9,20 +10,24 @@ import { shivamsir } from "../utils";
 
 const yogaTeachers = [
   {
-    name: "Kapil Sajwan",
-    title: "Founder | Hatha Yoga Specialist",
-    description: `Kapil Sajwan, founder of our yoga institute, is a dedicated practitioner and expert 
-      in Hatha Yoga. With over a decade of experience, he specializes in traditional Hatha Yoga techniques, 
-      focusing on physical postures, breath control, and meditation. His calm demeanor and depth of knowledge 
-      make him a revered teacher among students seeking a holistic approach to yoga practice.`,
+    name: "Kripalu Ji Maharaj",
+    title: "Founder",
+    description:
+      "Kripalu Ji Maharaj, founder of our institute, is a revered leader known for his wisdom and guidance. With a lifelong dedication to uplifting others, his calm demeanor and depth of knowledge make him a highly respected figure among all who seek a holistic approach to personal growth and well-being.",
   },
   {
     name: "Shivam Rana",
-    title: "Hatha Yoga Instructor",
-    description: `Shivam Rana is a skilled Hatha Yoga instructor with a passion for helping students 
-      achieve balance and inner strength through yoga. With his comprehensive understanding of traditional 
-      Hatha Yoga principles, Shivam guides his students through postures and breathing techniques that 
-      enhance flexibility and mindfulness. His classes are known for their attention to alignment and spiritual depth.`,
+    title: "Co-founder | Hatha Yoga Instructor",
+    description:
+      "Shivam Rana, co-founder and skilled Hatha Yoga instructor, has a passion for helping students achieve balance and inner strength. As a co-founder, Shivam combines his leadership role with his deep understanding of traditional Hatha Yoga principles, guiding students through postures and breathing techniques that enhance flexibility and mindfulness. His classes are known for their attention to alignment and spiritual depth.",
+  },
+  {
+    name: "Kapil Sajwan",
+    title: "Lead Teacher | Hatha Yoga Specialist",
+    description: `Kapil Sajwan, Leading of our yoga institute, is a dedicated practitioner and expert 
+      in Hatha Yoga. With over a decade of experience, he specializes in traditional Hatha Yoga techniques, 
+      focusing on physical postures, breath control, and meditation. His calm demeanor and depth of knowledge 
+      make him a revered teacher among students seeking a holistic approach to yoga practice.`,
   },
   {
     name: "Ajay Ji",
@@ -61,8 +66,9 @@ const yogaTeachers = [
 ];
 
 const imageArray = [
-  kapilsir,
+  sasurji,
   shivamsir,
+  kapilsir,
   ajaysir,
   sanjaysir,
   vikalsir,

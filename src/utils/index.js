@@ -67,6 +67,7 @@ import kapilsir from "../assets/glimpse/Teachers/kapilsir.jpg"
 import ajaysir from "../assets/glimpse/Teachers/ajaysir.jpg"
 import sanjaysir from "../assets/glimpse/Teachers/sanjaysir.jpg"
 import shivamsir from "../assets/glimpse/Teachers/shivamsir.jpg"
+import sasurji from "../assets/glimpse/Teachers/sasurji.png"
 
 import Ai1 from "../assets/glimpse/Gallery/Ai1.jpg"
 import Ai2 from "../assets/glimpse/Gallery/Ai2.jpg"
@@ -177,7 +178,8 @@ export{
   kapilsir,
   ajaysir,
   sanjaysir,
-  shivamsir
+  shivamsir,
+  sasurji
 }
 
 
